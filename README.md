@@ -11,7 +11,7 @@
 
 - If wanna see my portofolio [vinitka.wordpress.com](vinitka.wordpress.com)
 
-- You can email me **vinitka@proton.me**
+- You can email me! **vinitka@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
