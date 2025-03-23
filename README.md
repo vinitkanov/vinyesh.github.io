@@ -1,6 +1,6 @@
 <h1 align="center">Hello this is Vinitka Yeshyka</h1>
 <h3 align="center">That is my virtual name</h3>
-t5
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitkanov&label=Profile%20views&color=0e75b6&style=flat" alt="vinitkanov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitkanov" alt="vinitkanov" /></a> </p>
