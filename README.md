@@ -1,5 +1,5 @@
 <h1 align="center">Hello this is Vinitka Yeshyka</h1>
-<h3 align="center">That is my virtual name</h3>jj
+<h3 align="center">That is my virtual name</h3>
 t5
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitkanov&label=Profile%20views&color=0e75b6&style=flat" alt="vinitkanov" /> </p>
 
